@@ -1,0 +1,27 @@
+#player1_login{
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+#player2_login{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#login_div{
+background-color: cornflowerblue;
+text-align: center;
+height: 200px;
+width: 200px;
+}
+
+body{
+align-items: center;
+background-color: cornsilk;
+}
+	
+	
